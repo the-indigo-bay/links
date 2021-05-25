@@ -65,6 +65,7 @@ main a {
 	align-items: center;
         background-color: hsl(000, 0%, 80%);
         border-radius: 1vw;
+        width: 10vw;
 }
 
 a {
