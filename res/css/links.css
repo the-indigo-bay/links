@@ -64,6 +64,7 @@ main a {
 	justify-content: center;
 	align-items: center;
         background-color: hsl(000, 0%, 80%);
+        border-radius: 1vw;
 }
 
 a {
